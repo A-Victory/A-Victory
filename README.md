@@ -1,4 +1,4 @@
-#HELLO
+# HELLO
 
 I'm a Golang backend engineer who enjoys learning, creating, constructing, and maintaining scalable, well-architected software.
 I'm currently working on upgrading and refining past projects and learning more about concepts that I still need to grasp and master (AWS, databases).
