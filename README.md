@@ -11,16 +11,16 @@ I'm currently working on upgrading and refining past projects and learning more 
 - 😊 Pronouns: He/him
 - 💻I'm presently learning and employing the following:
 
-<ol>
-  <li>Golang</li>
-  <li>MongoDb</li>
-  <li>SQL (PostgreSQL, MYSQL)</li>
-  <li>Amazon Web Services</li>
-</ol>
+  <ul>
+    <li>Golang</li>
+    <li>MongoDb</li>
+    <li>SQL (PostgreSQL, MYSQL)</li>
+    <li>Amazon Web Services</li>
+  </ul>
 
 - 😊 I'm looking for assistance with open source projects, hackathons, internships, and entry-level positions.
 - 💼 Job interests: Software Engineer, Go Backend (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing victoryotagho@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing victoryotaghogho@gmail.com.
 
 
 ---
