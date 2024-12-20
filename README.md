@@ -8,11 +8,12 @@ I'm currently working on upgrading and refining past projects and learning more 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 💻I'm presently learning and employing the following:
 
   <ul>
     <li>Golang</li>
+    <li>Python</li>
+    <li>NodeJS</li>
     <li>MongoDb</li>
     <li>SQL (PostgreSQL, MYSQL)</li>
     <li>Amazon Web Services</li>
