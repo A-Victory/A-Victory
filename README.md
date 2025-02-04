@@ -20,7 +20,7 @@ I'm currently working on upgrading and refining past projects and learning more 
   </ul>
 
 - 😊 I'm looking for assistance with open source projects, hackathons, internships, and entry-level positions.
-- 💼 Job interests: Software Engineer, Go Backend (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Go Backend (Mid level).
 - 📫 You can [view my resume](#) and contact me by emailing victoryotaghogho@gmail.com.
 
 
